@@ -9,3 +9,4 @@ Runs the app in the development mode.
 Open https://localhost:3000 to view it in the browser.
 
 Deployed on Netlifly
+https://happy-morse-65cdea.netlify.app/
